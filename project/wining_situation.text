@@ -1,0 +1,26 @@
+situation for win
+You win:
+banker busted
+you get 21
+You get bigger than banker
+
+Com win:
+banker busted
+com get 21
+com get bigger than banker
+
+Banker win you:
+banker bigger than you
+you busted
+banker gets 21
+
+banker win com:
+banker bigger than com
+com busted
+banker get 21
+
+draw:
+banker=you<=21
+banker=com<=21
+both busted
+both busted
